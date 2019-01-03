@@ -120,6 +120,7 @@ Highlights:
 * I got to work all over infra this year (service discovery/networking, CI/CD, developer tooling, security, etc)
 * Speaker training and keynote at KubeCon
 * The CEO and CTO know my project :). The project does have a hype name and catchphrase, which always helps.
+* People implying that I should debug issues because I touched the code at some point and probably broke it (this gets old after you've "proven" that your code works just as intended for the 10th time)
 
 I worked on a lot of interesting problems this year, and look forward to sharing
 my solutions now that the blog is up!
